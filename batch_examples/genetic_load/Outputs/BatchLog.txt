@@ -1,0 +1,27 @@
+Checking Control file genetic_load/Inputs/CONTROL.txt
+
+Checking ParameterFile genetic_load/Inputs\paramFileRScue.tsv
+ParameterFile OK: total no. of simulations = 2
+
+Checking LandFile genetic_load/Inputs\landFileRScue.tsv
+LandFile OK: total no. of landscapes = 1
+
+
+Checking EmigrationFile genetic_load/Inputs\emigFileRScue.tsv
+EmigrationFile OK: total no. of simulations = 2
+
+Checking TransferFile genetic_load/Inputs\transFileRScue.tsv
+Checking dispersal kernel format file
+TransferFile OK: total no. of simulations = 2
+
+Checking SettlementFile genetic_load/Inputs\settFileRScue.tsv
+SettlementFile OK: total no. of simulations = 2
+
+Checking GeneticsFile genetic_load/Inputs\geneticsFileRScue.tsv
+GeneticsFile OK: total no. of simulations = 0
+
+Checking TraitsFile genetic_load/Inputs\traitsFileRScue.tsv
+TraitsFile OK: total no. of simulations = 0
+
+Checking InitialisationFile genetic_load/Inputs\initFileRScue.tsv
+InitialisationFile OK: total no. of simulations = 2

@@ -1,0 +1,3 @@
+Simulation	TraitType	ExprSex	Positions	NbrOfPositions	ExpressionType	 InitialAlleleDist	InitialAlleleParams	InitialDomDist	InitialDomParams	IsInherited	MutationDistribution	MutationParameters	DominanceDistribution	DominanceParameters	MutationRate	OutputValues
+1	genetic_load	#	0-49	#	multiplicative	gamma	shape=1.5;scale=0.001	scaled	mean=0.2	TRUE	gamma	shape=1.5;scale=0.002	scaled	mean=0.2	0.008	TRUE
+2	genetic_load	#	0-49	#	multiplicative	gamma	shape=1.5;scale=0.001	scaled	mean=0.2	TRUE	gamma	shape=1.5;scale=0.002	scaled	mean=0.2	0.008	TRUE

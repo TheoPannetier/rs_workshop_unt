@@ -1,0 +1,27 @@
+Checking Control file dispersal/Inputs/CONTROL.txt
+
+Checking ParameterFile dispersal/Inputs\paramFileRScue.tsv
+ParameterFile OK: total no. of simulations = 2
+
+Checking LandFile dispersal/Inputs\landFileRScue.tsv
+LandFile OK: total no. of landscapes = 1
+
+
+Checking EmigrationFile dispersal/Inputs\emigFileRScue.tsv
+EmigrationFile OK: total no. of simulations = 2
+
+Checking TransferFile dispersal/Inputs\transFileRScue.tsv
+Checking dispersal kernel format file
+TransferFile OK: total no. of simulations = 2
+
+Checking SettlementFile dispersal/Inputs\settFileRScue.tsv
+SettlementFile OK: total no. of simulations = 2
+
+Checking GeneticsFile dispersal/Inputs\geneticsFileRScue.tsv
+GeneticsFile OK: total no. of simulations = 0
+
+Checking TraitsFile dispersal/Inputs\traitsFileRScue.tsv
+TraitsFile OK: total no. of simulations = 0
+
+Checking InitialisationFile dispersal/Inputs\initFileRScue.tsv
+InitialisationFile OK: total no. of simulations = 2

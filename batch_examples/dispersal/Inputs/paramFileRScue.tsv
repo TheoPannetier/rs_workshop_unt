@@ -1,0 +1,3 @@
+Simulation	Replicates	Years	Absorbing	Gradient	GradSteep	Optimum	f	LocalExtOpt	Shifting	ShiftRate	ShiftStart	ShiftEnd	EnvStoch	EnvStochType	ac	std	minR	maxR	minK	maxK	LocalExt	LocalExtProb	PropMales	Harem	bc	Rmax	K1	OutStartPop	OutStartInd	OutStartTraitCell	OutStartTraitRow	OutStartConn	OutIntRange	OutIntOcc	OutIntPop	OutIntInd	OutIntTraitCell	OutIntTraitRow	OutIntConn	SMSHeatMap	FixReplicateSeed
+1	1	1000	0	1	0.02	100	0	-9	1	1.2	300	600	0	-9	-9	-9	-9	-9	-9	-9	0	0	0.5	1	1	4	40	0	0	0	0	0	0	0	0	50	0	0	0	0	0
+2	1	1000	0	1	0.02	100	0	-9	1	1.2	300	600	0	-9	-9	-9	-9	-9	-9	-9	0	0	0.5	1	1	4	40	0	0	0	0	0	0	0	0	50	0	0	0	0	0
